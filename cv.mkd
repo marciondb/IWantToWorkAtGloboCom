@@ -1,19 +1,176 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+Área de Esporte , Área de Jornalismo , Área de Webmedia , Plataforma de Cadastro , Plataforma de Personalização , Plataforma de Comentários
 
 CV
 ==
+<h1>Márcio Vinícius Dias</h1>
 
-[Preencha aqui o seu cv]
+Rua Ferreira Cantão, 861, apto 301 - Irajá- RJ
+CEP: 21.235-180 <br>	Telefone: 21-83016968<br>
+E-mail: marciondb@gmail.com<br>
+Linkedin:http://www.linkedin.com/profile/view?id=214785074
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+
+<h3>Informações pessoais</h3>	
+	Estado civil: Solteiro<br>
+	Nacionalidade: Brasileiro<br>
+	Idade: 28 - 28/08/1984<br><br>
+	Naturalidade: Rio de Janeiro<br>
+	CNH – carteira de motorista<br>
+
+<h3>Formação</h3>	
+Universidade Estadual do Rio de Janeiro<br>
+3º grau completo, 2013.<br>
+	Engenharia de computação<br>
+•	Projeto de conclusão: Aplicação android de pesquisa de ofertas baseado na geolocalização do usuário, através de GPS<br>
+•	Iniciação científica - bolsista PIBIC/ UERJ - 2009/2010 (Desenvolvimento de Algoritmos para identificação de Íris)<br>
+•	Vice-presidente do CA 2010/2011 e representante discente 2010/2011<br>
+
+COTEMIG Colégio e Faculdade. <br>
+ 2º grau completo, 2005.<br>
+	Curso Técnico em Informática Gerencial
+
+<h3>Cursos</h3>	
+Web designer (Flash 5.0.,HTML,Java Script), MySql(Configuração do winmysqladmin, Criação de BD, gerenciamento (consultas, interações, etc.),  Pascal (Básico e Intermediário,estruturas condicionais, de repetições, função e procedimento, registro, vetor e matriz), Lógica de programação  (Desenvolvimento de sistemas / programas), Dephi 5 (Desenvolvimento para Web,Desenvolvimento de aplicações com acesso a BD),  Delphi 3 (Desenvolvimento de sistemas, Banco de Dados Paradox, Desenvolvimento de aplicações com acesso BDE, criação de relatório, Database Desktop), C/C++ ( Básico Intermediário.
+estruturas condicionais, de repetições, função, procedimento, registro, vetor e matriz), Linux (Modo texto), Access (Criação de BD, gerenciamento, consultas) Rede,  APS (Analise de Projetos de Sistemas) , FH(Fundamentos de Hardware (Eletrônica (teoria) e pratica),  TECINT (Tecnologia da Internet, CSS, Java Script, PHP HTML.)
+Local: COTEMIG Colégio e Faculdade.
+
+<h3>Atividades extracurriculares</h3>	
+- IPD, Windows 98, Outlook Express, Office 97, Front Page Express/2000/2002, HTML, INTERNET, Manutenção de Computadores e DIGITAÇÃO.
+Total de horas: 144 Hs
+CNI - Centro Nacional de Informática
+
+- Empreendedorismo
+Conteúdo: Principais Características Empreendedoras; Conceito de Mercado, Planejamento e Análise Financeira da Empresa e Roteiro Básico de Plano de Negócio. 
+Total de horas: 16 HS
+SEBRAE - Serviço Brasileiro de Apoio às Micro e Pequenas Empresas
+
+- <ul>
+	<li>Inglês</li>
+		<ul>
+		
+			<li>Avançado.<br>
+			Escola: Wise Up. <br>
+			Período: 2011/2012 (Um ano e sete meses).<br>
+			</li>
+			<li>			
+			Básico.<br>
+			Escola: Master English.<br>
+			Período: 2003/2004 (Um ano). <br>
+			</li>
+		</ul>
+</ul>
+
+<h3>Conhecimentos Conhecimento Avançado:</h3>
+Windows 3.11 / 95 / 98 / ME /NT / 2000 / XP, Outlook Express, Office 95 / 97 / 2000 / XP e Front Page 2000 / 2002.
+
+<h3>Conhecimentos Intermediários:</h3>
+Android SDK, Python, Django, PHP, Zend, Java Script , Scilab, Matlab 2010, Delphi 3 / 6 / 7, Banco de dados: Paradox, Access, InterBase , MySql e MS SQL Server 2000,  (acesso: BDE , ADO e InterBase), Pascal, Object Pascal, BDE Administrator, SQL Explorer, MySql Manager, Crystal Reports 8, Clipper, MicroSiga, ADVPL, PocketStudio 2, POSE Emulator 3.5, Apache, PHP EDITOR, Palm OS.
+
+<h3>Conhecimentos Básicos: </h3>
+Windows 2003 Server SD, Linux (modo texto e gráfico), Corel Draw,  CGI, DHTML, CSS, IntraWeb, Adobe Premiere Pro CS5.
+
+Palestra: 	SCRUM: Um Método Ágil de Desenvolvimento
+Palestrante: Annelise Gripp, Rede Globo.
+
+Segurança da Informação
+Palestrante: Ricado Capozzi, Mestrado em Sistema de informação.
+
+TechDay ClubDelphi
+Desenvolvimento Multi-Camadas e Web com Delphi, InterBase 7.1, Delphi 8 & .NET
+
+<h3>Experiências com trabalhos voluntários e causas</h3>
+Local: Nova Fribrugo
+Intituição: Igreja Batista Central de Nova Friburgo
+Cargo: Ajudante
+Descrição: 
+Atuei na ajuda aos desabrigados na trajédia em Nova Friburgo, em 2011. Desde descarregar caminhões com suprimentos a limpeza de casas soterradas.
+
+<h3>Experiência Professional</h3>  	
+<h6>Cargo: Programador de sistemas</h6>
+Empresa: CriWeb<br>
+Inicio: 03/01/2011<br>
+Fim: 01/05/2013<br>
+Contato: Rodrigo Senna (rsena@criweb.com.br)<br>
+
+•	Analise e desenvolvimento de sistemas e suporte a clientes da empresa.<br>
+o	Projeto: Sistema em MVC utilizando ZEND em dupla (todo o sistema administrativo para dar suporte ao sistema de educação a distância do cliente. Desenvolvido em php+javascript, utilizando ZEND Framework). <br>
+<br>
+<h6>Programador</h6>
+Cargo: Estagiário<br>
+Empresa: Neo Net<br>
+Inicio: 01/07/2010<br>
+Fim: 01/12/2010<br>
+Contato: Marcos Woody<br>
+
+•	Desenvolvimento e manutenção de sites em PHP, JavaScript e MySql<br>
+
+<h6>Programador</h6>
+Cargo: Estagiário<br>
+Empresa: SNC Indústria de Cosméticos<br>
+Inicio: 03/05/2004<br>
+Fim: 03/11/2004<br>
+Tel.: 31-34547865 (Alécio).<br>
+<br>
+•	Desenvolvimento, dentro do ERP MicroSiga, de programas e relatórios em ADVPL e SQL<br>
+Base de dados Microsoft SQL Server 2000<br>
+•	Desenvolvimento de relatório no Crystal Reports 8<br>
+•	Manutenção no Banco de Dados MS SQL Server 2000  (criação e alterações nas tabelas da base de dados)<br>
+•	Responsável pela automação na impressão de etiquetas com cód. de barras (Design das etiquetas, configuração da impressora Zebra Z4M para a impressão, treinamento no pessoal do setor de Produção na confecção e impressão das etiquetas).<br>
+•	Suporte a usuários (Outlook 2000, Windows 98/XP, Office 2000/2002, Etiquetas, configuração de impressoras, maquinas)<br>
+•	Desenvolvimento do sistema SAC em PHP, MySql e JavaScript<br>
+•	Treinamentos recebidos:<br>
+o	Treinamento na Impressão de etiquetas com cód. de barras<br>
+ Local: Na empresa<br>
+ Duração: 2 dias<br>
+ Treinado pelo Sr. Márcio Cunha da 3M Brasil<br>
+o	Treinado no ERP Microsiga<br>
+ Local: Na empresa<br>
+ Duração: 3 meses<br>
+Treinado pelo Sr. Geraldo Alécio da SNC<br>                             
+<br>
+
+<h6>Consultor Técnico / Administrador de Informática.</h6>
+Cargo: Estagiário<br>
+Empresa: MinasData informática e telecomunicações Ltda<br>
+Inicio: 01/08/2002<br>
+Término: 01/09/2003<br>
+Área de atuação: Prestação de serviços nas seguintes empresas:<br>
+<hr>
+Consultor Técnico<br>
+CITIBANK N/A<br>
+(instalação, treinamento, suporte, manutenção a clientes do banco).<br>
+Técnico responsável pelo cliente<br>
+Consultor Técnico<br>
+Bank Boston S.A.<br>
+(instalação, treinamento, suporte, manutenção a clientes do banco).<br>
+Técnico responsável pelo cliente.<br>
+Técnico<br>
+Banco Sudameris<br>
+Configuração e Manutenção.<br>
+Consultor Técnico<br>
+Caixa Econômica Federal<br>
+(instalação, treinamento, suporte, manutenção a clientes do banco).<br>
+Técnico de suporte na empresa MG talentos.<br>
+ (Configuração, instalação e manutenção da rede, software, computadores, impressora, suporte aos funcionários).<br>
+Técnico em informática<br>
+Prestação de serviço à empresa Tynex na instalação, configuração e manutenção de computadores IBM.<br>
+Técnico em informática e administrador<br>
+BHZ Logística, franquia VARIGLOG.<br>
+Instalação, manutenção, suporte, configuração de placas em geral, impressoras e administrador de rede.<br>
+<br>
+Técnico em informática e administrador<br>
+Banco Alfa de Investimentos<br>
+Manutenção de hardware, instalação de sistemas (Windows, Office, etc.), rede, Impressoras. <br>
+<br>
+Administrador de Redes / Suporte / Programador<br>
+Cargo: Estagiário<br>
+Empresa: Grupo PIM<br>
+Inicio: 01/02/2004<br>
+Termino: 01/05/2004<br>
+Administrador de rede, Instalação, manutenção, suporte, configuração de placas em geral e impressoras.<br>
+Desenvolvimento de sistemas (help desk, Estoque).<br>
+
+
