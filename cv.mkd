@@ -1,26 +1,38 @@
 Vaga
 ====
 
-Área de Esporte , Área de Jornalismo , Área de Webmedia , Plataforma de Cadastro , Plataforma de Personalização , Plataforma de Comentários
+Todas
 
 CV
 ==
 <h1>Márcio Vinícius Dias</h1>
 
-Rua Ferreira Cantão, 861, apto 301 - Irajá- RJ
-CEP: 21.235-180 <br>	Telefone: 21-83016968<br>
+Rua Lopez Ferraz - São Cristóvão - RJ
+CEP: 20.940-240 <br>	Telefone: 21-983016968<br>
 E-mail: marciondb@gmail.com<br>
-Linkedin:http://www.linkedin.com/profile/view?id=214785074
+Linkedin: https://br.linkedin.com/in/márcio-vinícius-dias-b02b205b
 
 
 <h3>Informações pessoais</h3>	
 	Estado civil: Solteiro<br>
 	Nacionalidade: Brasileiro<br>
-	Idade: 28 - 28/08/1984<br><br>
+	Idade: 31 - 28/08/1984<br><br>
 	Naturalidade: Rio de Janeiro<br>
 	CNH – carteira de motorista<br>
 
-<h3>Formação</h3>	
+<h3>Engenheiro de Computação, cursando Mestrado em Engenharia de Defesa no IME e MBA em Gerência de Projetos PMI. Graduado em Engenharia de Computação pela UERJ. Experiência em desenvolvimento de sistemas WEB e liderança de projeto. Apaixonado por tecnologia. Técnico em informática (ensino médio técnico). Disponibilidade para viagens.</h3>
+
+<h3>Formação</h3>
+
+Instituto Militar de Engenharia
+Mestrado em Engenharia de Defesa
+	Conclusão: junho 2016
+
+Instituto Infnet
+MBA em Gerência de Projetos - Padrão PMI
+	Conclusão: dezembro 2015
+
+
 Universidade Estadual do Rio de Janeiro<br>
 3º grau completo, 2013.<br>
 	Engenharia de computação<br>
@@ -32,63 +44,28 @@ COTEMIG Colégio e Faculdade. <br>
  2º grau completo, 2005.<br>
 	Curso Técnico em Informática Gerencial
 
-<h3>Cursos</h3>	
-Web designer (Flash 5.0.,HTML,Java Script), MySql(Configuração do winmysqladmin, Criação de BD, gerenciamento (consultas, interações, etc.),  Pascal (Básico e Intermediário,estruturas condicionais, de repetições, função e procedimento, registro, vetor e matriz), Lógica de programação  (Desenvolvimento de sistemas / programas), Dephi 5 (Desenvolvimento para Web,Desenvolvimento de aplicações com acesso a BD),  Delphi 3 (Desenvolvimento de sistemas, Banco de Dados Paradox, Desenvolvimento de aplicações com acesso BDE, criação de relatório, Database Desktop), C/C++ ( Básico Intermediário.
-estruturas condicionais, de repetições, função, procedimento, registro, vetor e matriz), Linux (Modo texto), Access (Criação de BD, gerenciamento, consultas) Rede,  APS (Analise de Projetos de Sistemas) , FH(Fundamentos de Hardware (Eletrônica (teoria) e pratica),  TECINT (Tecnologia da Internet, CSS, Java Script, PHP HTML.)
-Local: COTEMIG Colégio e Faculdade.
+<h3>Experiência Professional</h3>
 
-<h3>Atividades extracurriculares</h3>	
-- IPD, Windows 98, Outlook Express, Office 97, Front Page Express/2000/2002, HTML, INTERNET, Manutenção de Computadores e DIGITAÇÃO.
-Total de horas: 144 Hs
-CNI - Centro Nacional de Informática
+<h6>Cargo: Líder de Projetos</h6>
+Empresa: LMI do Brasil<br>
+Inicio: 10/06/2015<br>
+Contato: Ricardo Porto (rporto@lmi-int.com) <br>
 
-- Empreendedorismo
-Conteúdo: Principais Características Empreendedoras; Conceito de Mercado, Planejamento e Análise Financeira da Empresa e Roteiro Básico de Plano de Negócio. 
-Total de horas: 16 HS
-SEBRAE - Serviço Brasileiro de Apoio às Micro e Pequenas Empresas
+•	Analise e desenvolvimento do sistema de comando e controle da empresa, desenvolvido utilizando OpenLayers3, Dojo Tool Kit, AngularJS e Spring Framework.;
+•	Responsável pelo produto de simulação Masa SWORD (Suporte, desenvolvimento, instalação e treinamento a clientes)
+<br>
+<br>
 
-- <ul>
-	<li>Inglês</li>
-		<ul>
-		
-			<li>Avançado.<br>
-			Escola: Wise Up. <br>
-			Período: 2011/2012 (Um ano e sete meses).<br>
-			</li>
-			<li>			
-			Básico.<br>
-			Escola: Master English.<br>
-			Período: 2003/2004 (Um ano). <br>
-			</li>
-		</ul>
-</ul>
+<h6>Cargo: Líder de Projetos</h6>
+Empresa: Minds at Work<br>
+Inicio: 15/05/2013<br>
+Fim: 20/05/2015<br>
+Contato: Juliana Rezende (juliana@mindsatwork.com.br)<br>
 
-<h3>Conhecimentos Conhecimento Avançado:</h3>
-Windows 3.11 / 95 / 98 / ME /NT / 2000 / XP, Outlook Express, Office 95 / 97 / 2000 / XP e Front Page 2000 / 2002.
+•	Gerente técnico do projeto de customização do simulador de guerra do Exército Brasileiro no simulador SWORD. Projeto realizado com a empresa francesa MASA Group. Todo projeto conduzido em inglês, junto aos engenheiros da MASA.
+•	Analise e desenvolvimento do Simulador de Operações de Guerra Cibernética (SIMOC) do Exército Brasileiro, desenvolvido em Java e Javascript. Utilizando VMWARE Api<br>
+<br>
 
-<h3>Conhecimentos Intermediários:</h3>
-Android SDK, Python, Django, PHP, Zend, Java Script , Scilab, Matlab 2010, Delphi 3 / 6 / 7, Banco de dados: Paradox, Access, InterBase , MySql e MS SQL Server 2000,  (acesso: BDE , ADO e InterBase), Pascal, Object Pascal, BDE Administrator, SQL Explorer, MySql Manager, Crystal Reports 8, Clipper, MicroSiga, ADVPL, PocketStudio 2, POSE Emulator 3.5, Apache, PHP EDITOR, Palm OS.
-
-<h3>Conhecimentos Básicos: </h3>
-Windows 2003 Server SD, Linux (modo texto e gráfico), Corel Draw,  CGI, DHTML, CSS, IntraWeb, Adobe Premiere Pro CS5.
-
-Palestra: 	SCRUM: Um Método Ágil de Desenvolvimento
-Palestrante: Annelise Gripp, Rede Globo.
-
-Segurança da Informação
-Palestrante: Ricado Capozzi, Mestrado em Sistema de informação.
-
-TechDay ClubDelphi
-Desenvolvimento Multi-Camadas e Web com Delphi, InterBase 7.1, Delphi 8 & .NET
-
-<h3>Experiências com trabalhos voluntários e causas</h3>
-Local: Nova Fribrugo
-Intituição: Igreja Batista Central de Nova Friburgo
-Cargo: Ajudante
-Descrição: 
-Atuei na ajuda aos desabrigados na trajédia em Nova Friburgo, em 2011. Desde descarregar caminhões com suprimentos a limpeza de casas soterradas.
-
-<h3>Experiência Professional</h3>  	
 <h6>Cargo: Programador de sistemas</h6>
 Empresa: CriWeb<br>
 Inicio: 03/01/2011<br>
@@ -173,4 +150,58 @@ Termino: 01/05/2004<br>
 Administrador de rede, Instalação, manutenção, suporte, configuração de placas em geral e impressoras.<br>
 Desenvolvimento de sistemas (help desk, Estoque).<br>
 
+<h3>Cursos</h3>	
+Web designer (Flash 5.0.,HTML,Java Script), MySql(Configuração do winmysqladmin, Criação de BD, gerenciamento (consultas, interações, etc.),  Pascal (Básico e Intermediário,estruturas condicionais, de repetições, função e procedimento, registro, vetor e matriz), Lógica de programação  (Desenvolvimento de sistemas / programas), Dephi 5 (Desenvolvimento para Web,Desenvolvimento de aplicações com acesso a BD),  Delphi 3 (Desenvolvimento de sistemas, Banco de Dados Paradox, Desenvolvimento de aplicações com acesso BDE, criação de relatório, Database Desktop), C/C++ ( Básico Intermediário.
+estruturas condicionais, de repetições, função, procedimento, registro, vetor e matriz), Linux (Modo texto), Access (Criação de BD, gerenciamento, consultas) Rede,  APS (Analise de Projetos de Sistemas) , FH(Fundamentos de Hardware (Eletrônica (teoria) e pratica),  TECINT (Tecnologia da Internet, CSS, Java Script, PHP HTML.)
+Local: COTEMIG Colégio e Faculdade.
 
+<h3>Atividades extracurriculares</h3>	
+- IPD, Windows 98, Outlook Express, Office 97, Front Page Express/2000/2002, HTML, INTERNET, Manutenção de Computadores e DIGITAÇÃO.
+Total de horas: 144 Hs
+CNI - Centro Nacional de Informática
+
+- Empreendedorismo
+Conteúdo: Principais Características Empreendedoras; Conceito de Mercado, Planejamento e Análise Financeira da Empresa e Roteiro Básico de Plano de Negócio. 
+Total de horas: 16 HS
+SEBRAE - Serviço Brasileiro de Apoio às Micro e Pequenas Empresas
+
+- <ul>
+	<li>Inglês</li>
+		<ul>
+		
+			<li>Avançado.<br>
+			Escola: Wise Up. <br>
+			Período: 2011/2012 (Um ano e sete meses).<br>
+			</li>
+			<li>			
+			Básico.<br>
+			Escola: Master English.<br>
+			Período: 2003/2004 (Um ano). <br>
+			</li>
+		</ul>
+</ul>
+
+<h3>Conhecimentos Conhecimento Avançado:</h3>
+MS Windows, MS Office e MASA SWORD.
+
+<h3>Conhecimentos Intermediários:</h3>
+Dojo Tool Kit, Spring Framework, AngularJS, Java, MS Project, Luciad RIA, Global Mapper, OpenStreetMap, Google Map API, MS Visual Studio C++, Gantt Project, LUA, Android SDK, Python, Django, PHP, Zend, JQuery, JQuery UI, JavaScript , Scilab, Matlab 2010, Delphi 3 / 6 / 7, Banco de dados: Paradox, Access, InterBase , MySql e MS SQL Server 2000,  (acesso: BDE , ADO e InterBase), Pascal, Object Pascal, BDE Administrator, SQL Explorer, MySql Manager, Crystal Reports 8, Clipper, MicroSiga, ADVPL, PocketStudio 2, POSE Emulator 3.5, Apache, PHP EDITOR, Palm OS.
+
+<h3>Conhecimentos Básicos: </h3>
+Windows 2003 Server SD, Linux (modo texto e gráfico), Corel Draw,  CGI, DHTML, CSS, IntraWeb, Adobe Premiere Pro CS5.
+
+Palestra: 	SCRUM: Um Método Ágil de Desenvolvimento
+Palestrante: Annelise Gripp, Rede Globo.
+
+Segurança da Informação
+Palestrante: Ricado Capozzi, Mestrado em Sistema de informação.
+
+TechDay ClubDelphi
+Desenvolvimento Multi-Camadas e Web com Delphi, InterBase 7.1, Delphi 8 & .NET
+
+<h3>Experiências com trabalhos voluntários e causas</h3>
+Local: Nova Fribrugo
+Intituição: Igreja Batista Central de Nova Friburgo
+Cargo: Ajudante
+Descrição: 
+Atuei na ajuda aos desabrigados na trajédia em Nova Friburgo, em 2011. Desde descarregar caminhões com suprimentos a limpeza de casas soterradas.
