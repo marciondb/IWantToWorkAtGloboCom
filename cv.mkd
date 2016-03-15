@@ -24,11 +24,11 @@ Linkedin: https://br.linkedin.com/in/márcio-vinícius-dias-b02b205b
 
 <h3>Formação</h3>
 
-Instituto Militar de Engenharia
+Instituto Militar de Engenharia<br>
 Mestrado em Engenharia de Defesa<br>
 	Conclusão: junho 2016
 
-Instituto Infnet
+Instituto Infnet<br>
 MBA em Gerência de Projetos - Padrão PMI<br>
 	Conclusão: dezembro 2015
 
